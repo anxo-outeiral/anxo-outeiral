@@ -1,14 +1,12 @@
-### Hola 👋
+# Hi there 👋
 
-<!--
+## 😄 Profile
+
 - 🔭 I’m currently working on [Éutika](https://www.eutika.com/)
 - 🌱 I’m currently learning Kubernetes and diving deeper into DevSecOps.
-- 👯 I’m looking to collaborate on Open Source automation projects, DevOps tooling, or cloud-native solutions.
-- 🤔 I’m looking for help with advanced monitoring and observability strategies in distributed environments.
-- 💬 Ask me about infrastructure as code, containers, orchestration, CI/CD, and zero-downtime deployments.
-- 📫 How to reach me: [Your Email] or connect with me on [Your LinkedIn Profile].
-- 😄 Pronouns: [Your Pronouns, e.g., He/Him]
-- ⚡ Fun fact: I can set up a Kubernetes cluster before finishing my morning coffee!
+- 📫 Feel free to reach out at [anxo@duck.com] if you've seen a comment I've made on an **Issue** or **Pull Request** and have follow-up questions, want to discuss a **technical topic**, or just want to **chat about development**,!
+
+<!--
 
 ---
 
@@ -89,6 +87,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rehumilebiagini@gmail.com
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis
+- 👯 I’m looking to collaborate on Open Source automation projects, DevOps tooling, or cloud-native solutions.
+- 🤔 I’m looking for help with advanced monitoring and observability strategies in distributed environments.
+- 💬 Ask me about infrastructure as code, containers, orchestration, CI/CD, and zero-downtime deployments.
 
 -->
 

@@ -1,97 +1,28 @@
-# Hi there 👋
+# Hi, I'm Anxo 👋
 
-## 😄 Profile
+I'm a Platform & Cloud Engineer at [Éutika](https://www.eutika.com/).
 
-- 🔭 I’m currently working on [Éutika](https://www.eutika.com/)
-- 🌱 I’m currently learning Kubernetes and diving deeper into DevSecOps.
-- 📫 Feel free to reach out at [hello@anxo.dev] if you've seen a comment I've made on an **Issue** or **Pull Request** and have follow-up questions, want to discuss a **technical topic**, or just want to **chat about development**,!
+Most of my day-to-day is Kubernetes, Terraform, CI/CD and observability — both for our own product and helping client organizations get their infrastructure in order: not just keeping it up and running, but evolving it with the standards and solutions that make sense today.
 
-<!--
+On the IT side, I'm big on security, digital sovereignty, data privacy and selfhosting — I run my own services and like keeping my data where it belongs: with me.
 
----
+Lately, most of my energy goes into AI agents and how they're changing the way we build and operate software.
 
-### 🛠️ Tech Stack & Herramientas
+- Currently exploring: agentic workflows, LLM-powered ops, agentic documentation and AI coding tools and frameworks.
+- Everything as code — infra, pipelines, docs, and now the agents too.
 
-Aquí están algunas de las tecnologías y herramientas con las que he estado trabajando recientemente:
+## Contact
 
-- **Languages:** Python, Bash, Go (básico para scripting), YAML
-- **Frameworks:** [Si usas alguno relevante para scripting o automatización, ej. Flask/FastAPI para APIs internas]
-- **Cloud Providers:** AWS, Azure, GCP [Elimina los que no uses]
-- **Orquestación & Contenedores:** Docker, Kubernetes (K8s), OpenShift
-- **Infraestructura como Código (IaC):** Terraform, Ansible, Pulumi
-- **CI/CD:** Jenkins, GitLab CI/CD, GitHub Actions, ArgoCD, Spinnaker
-- **Monitorización & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Splunk, Datadog
-- **Control de Versiones:** Git, GitHub, GitLab, Bitbucket
-- **Sistemas Operativos:** GNU/Linux (Ubuntu, CentOS, Alpine)
-- **Bases de Datos:** PostgreSQL, MySQL, MongoDB, Redis [Menciona las que administres o con las que interactúes]
-- **Desarrollo de Software:** [Si relevante, ej. metodologías]
-- **Virtualización:** VMware, Vagrant
-- **Redes:** [Si tienes experiencia específica, ej. VPN, Load Balancing]
+<!--- 🌐 [anxo.dev](https://anxo.dev)-->
+- 💼 [LinkedIn](https://www.linkedin.com/in/anxo-outeiral/)
 
+📫 Feel free to reach out at [hello@anxo.dev](mailto:hello@anxo.dev) if you've seen a comment I've made on an Issue or Pull Request and have follow-up questions, want to discuss a technical topic, or just want to chat about development.
 
 ---
 
-### 🚀 Metodologías & Prácticas
+_Last updated: September 2026_
 
-- **Metodologías Ágiles:** Agile, Scrum, Kanban
-- **Principios de Desarrollo:** GitOps, DevOps, Site Reliability Engineering (SRE), DevSecOps, IaC
-- **Prácticas de Código:** TDD (Test-Driven Development), Clean Code, SOLID Principles, DDD (Domain-Driven Design)
-- **Flujos de Trabajo:** Gitflow, Trunk-Based Development
-- **Colaboración:** Jira, Confluence, Slack, Microsoft Teams
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anxo-outeiral&theme=tokyo-night)
 
----
-
-### 📚 Aprendiendo Actualmente
-
-- NodeJS, Typescript [Si estás aprendiendo estos, si no, reemplázalos por lo que sea relevante para ti]
-- [Otra tecnología o concepto que estés explorando activamente, ej. WebAssembly, eBPF, Chaos Engineering, o una nueva certificación cloud]
-
----
-
-### ✨ Mis Repositorios Destacados
-
-* [Enlace a un repo que muestre tus scripts de IaC]
-* [Enlace a un proyecto de CI/CD que hayas configurado]
-* [Enlace a un ejemplo de Docker Compose o Kubernetes manifest]
-
----
-
-💻 Tech Stack
-Here are a few technologies I've been working with recently:
-
-[Technology 1]
-[Technology 2]
-[Technology 3]
-[Technology 4]
-
----
-
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[tu-nombre-de-usuario]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-nombre-de-usuario]&layout=compact&theme=radical)
-
----
-
--->
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination
-- 🌱 I’m currently learning how to play guitar, write accademically, make films, and be consistent.
-- 👯 I’m looking to collaborate on music, movies, cool AI stuff, anything I think is fun and worth while. 
-- 🤔 I’m looking for help with how to host a website locally.
-- 💬 Ask me about film theory, italian litterature, editing films, social media, or politics.
-- 📫 How to reach me: rehumilebiagini@gmail.com
-- 😄 Pronouns: She/Her 
-- ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis
-- 👯 I’m looking to collaborate on Open Source automation projects, DevOps tooling, or cloud-native solutions.
-- 🤔 I’m looking for help with advanced monitoring and observability strategies in distributed environments.
-- 💬 Ask me about infrastructure as code, containers, orchestration, CI/CD, and zero-downtime deployments.
-
--->
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anxo-outeiral&show_icons=true&theme=radical)
 

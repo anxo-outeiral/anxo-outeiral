@@ -21,8 +21,3 @@ Lately, most of my energy goes into AI agents and how they're changing the way w
 ---
 
 _Last updated: September 2026_
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anxo-outeiral&theme=tokyo-night)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anxo-outeiral&show_icons=true&theme=radical)
-
